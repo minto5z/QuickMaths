@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Quick Maths</string>
+    <string name="admob_app_id">ca-app-pub-7847987108418653~4904780508</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7847987108418653/5088790948</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-7847987108418653/1218226448</string>
+</resources>

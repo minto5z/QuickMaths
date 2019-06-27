@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/first_background"
+    tools:context=".CongratulationActivity">
+
+    <LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:layout_marginLeft="20dp"
+    android:layout_marginRight="20dp"
+    android:orientation="horizontal">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Congratulations! You have "
+        android:textSize="20dp"
+        android:textColor="#ffffff"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:orientation="horizontal">
+        <TextView
+            android:id="@+id/congoText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="scored 00 points."
+            android:textSize="20dp"
+            android:textColor="#ffffff"/>
+    </LinearLayout>
+    <Button
+        android:id="@+id/okBtn"
+        android:layout_marginTop="25dp"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text="OK"
+        android:textSize="25dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/button_radius"/>
+
+
+</LinearLayout>

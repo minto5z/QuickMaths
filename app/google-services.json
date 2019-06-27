@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "428281202485",
+    "firebase_url": "https://quickmaths-d2c74.firebaseio.com",
+    "project_id": "quickmaths-d2c74",
+    "storage_bucket": "quickmaths-d2c74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428281202485:android:451010445d3b43ea",
+        "android_client_info": {
+          "package_name": "com.example.alaminahmed.quickmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428281202485-pr818vk3i8863qv7qa80tp0eb9e2sjf8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alaminahmed.quickmaths",
+            "certificate_hash": "218a58d99d50ec3b1346a4089125a22e2033210c"
+          }
+        },
+        {
+          "client_id": "428281202485-7cm0g8pg0nd3lrhkeqrn8t7eu84ttiko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt45RDaw9y17n_YiD6AjQu8zV2CDdbyu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428281202485-7cm0g8pg0nd3lrhkeqrn8t7eu84ttiko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428281202485:android:8fb096e6658d17f3",
+        "android_client_info": {
+          "package_name": "com.learn.alaminahmed.quickmaths"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428281202485-7cm0g8pg0nd3lrhkeqrn8t7eu84ttiko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt45RDaw9y17n_YiD6AjQu8zV2CDdbyu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
